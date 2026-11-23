@@ -3,8 +3,8 @@
     <div class="column items-center">
      
     
-      <h1> Fieldlog</h1>
-      <p>Mobilni dnevnik terenskih opažanja</p>
+      <h1> Početna</h1>
+      <p>Dobrfo došlu u fieldlog</p>
 
     <div class="q-pa-md q-gutter-sm">
       <q-btn color="white" text-color="black" label="Novo Opazanje" to="/novo-opazanje" />
